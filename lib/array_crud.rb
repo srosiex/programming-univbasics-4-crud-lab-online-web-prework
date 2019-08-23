@@ -1,4 +1,3 @@
-p empty_array[]
 
 def create_an_array
 
